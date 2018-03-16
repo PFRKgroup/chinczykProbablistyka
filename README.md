@@ -1,5 +1,5 @@
 # ChinczykProbablistyka
 
-Dodaliśmy dwa przykładowe pliki: __
--exampleOfThrowADice zawiera tytuł 'Wart' oraz wartości rzutu kostką wygranego gracza__
--exampleOfWinRatio przedstawia wygrane symulacje dla każdego gracza po ','__
+Dodaliśmy dwa przykładowe pliki: <br />
+-exampleOfThrowADice zawiera tytuł 'Wart' oraz wartości rzutu kostką wygranego gracza<br />
+-exampleOfWinRatio przedstawia wygrane symulacje dla każdego gracza po ','<br />
