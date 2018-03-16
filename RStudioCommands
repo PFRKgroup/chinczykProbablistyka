@@ -1,0 +1,3 @@
+#RStudio komendy:
+hist(test$Wart,xlab="ilSymulacji",ylab="ilRzutówWygranego",main="Chińczyk",breaks=5000)<br />
+plot(test$ID,test$Wart,main="Chińczyk",xlab="ilSymulacji",ylab="ilRzutówWygranego") 
